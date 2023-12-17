@@ -8,7 +8,7 @@ Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours Com
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [nurainabalqis@graduate.utm.my](mailto:nurainabalqis@graduate.utm.my)
-* ⚡  Fun fact about me is my behavior is based on the person's treatment of me.
+* ⚡️  Fun fact about me is my behavior is based on the person's treatment of me.
 
 ### Skills
 
@@ -25,11 +25,3 @@ Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours Com
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/nurainabalqis"><img src="https://github-readme-stats.vercel.app/api?username=nurainabalqis&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=365314&hide_border=true&show_icons=true" alt="nurainabalqis's GitHub stats" /></a>
-
-<a href="http://www.github.com/nurainabalqis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nurainabalqis&stroke=ffffff&background=365314&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/nurainabalqis"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nurainabalqis&bg_color=365314&color=ffffff&line=22c55e&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/nurainabalqis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurainabalqis&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
