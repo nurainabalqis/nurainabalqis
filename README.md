@@ -1,4 +1,4 @@
-<h1 align="center">Hi! https://media1.tenor.com/m/dlUUr6czDfAAAAAC/emoji-emoticon.gif My name is Nur Aina Balqis</h1>
+<h1 align="center">Hi! 👋 My name is Nur Aina Balqis</h1>
 <h3 align="center">Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurainabalqis&label=Profile%20views&color=0e75b6&style=flat" alt="nurainabalqis" /> </p>
