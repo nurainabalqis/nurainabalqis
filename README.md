@@ -9,12 +9,12 @@
 
 - 📫 How to reach me **nurainabalqis@graduate.utm.my**
 
-- ⚡ Fun fact **y behavior is based on the person's treatment of me.**
+- ⚡ Fun fact **My behavior is based on the person's treatment of me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nur_ainabalqis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nur_ainabalqis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sekuntumainacindy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sekuntumainacindy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@sekuntumainacindy?si=tqqvig7lhbcpjc0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@sekuntumainacindy?si=tqqvig7lhbcpjc0_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
