@@ -25,16 +25,16 @@ Education
 - Pendeta Za'ba National Secondary School (2017 - 2019)
 
 Co-curriculum / Achievements
-● Assistant Practicum Leader (2022 - 2023)
-● Committee Member of the Reading Promotion Program (2022 - 2023)
-● Training and Guidance Bureau of the Zaba Reverend Friends Club (2022 - 2023)
-● Student Representative Council Welfare Exco (2020 - 2021)
-● Secretary of the Islamic Princess Movement (2021)
-● Computer Club Committee Member (2021)
-● Sports and Games Committee Member (2021)
-● Resource Center Oversight Committee Member (2018 - 2019)
-● Girl Guide Association Committee Member (2019)
-● International level Science, Technology, Engineering and Mathematics (STEM) involvement (2021)
+- Assistant Practicum Leader (2022 - 2023)
+- Committee Member of the Reading Promotion Program (2022 - 2023)
+- Training and Guidance Bureau of the Zaba Reverend Friends Club (2022 - 2023)
+- Student Representative Council Welfare Exco (2020 - 2021)
+- Secretary of the Islamic Princess Movement (2021)
+- Computer Club Committee Member (2021)
+- Sports and Games Committee Member (2021)
+- Resource Center Oversight Committee Member (2018 - 2019)
+- Girl Guide Association Committee Member (2019)
+- International level Science, Technology, Engineering and Mathematics (STEM) involvement (2021)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -45,7 +45,6 @@ Co-curriculum / Achievements
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurainabalqis&" alt="nurainabalqis" /></p>
 
-# :heartpulse: Bored
+# :heartpulse: Happy
 Current mood
 
-<img src="https://github.com/nurainabalqis/nurainabalqis/blob/main/Source/anya-forger-smile.gif" align="center">
