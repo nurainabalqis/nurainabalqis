@@ -36,7 +36,7 @@ Co-curriculum / Achievements
 - Girl Guide Association Committee Member (2019)
 - International level Science, Technology, Engineering and Mathematics (STEM) involvement (2021)
 
-# :a_woman_wearing_business_attire: Work Experience
+# 👩‍💻_with_decorative_cover: Work Experience
 - Model and Customer Service gallery of Ustazah Asma Harun (March 2022 - June 2022)
 - Assistant teacher Permata Kindergarten (June 2022)
 - Supervisor at Mr. DIY company (June 2023 - September 2023)
