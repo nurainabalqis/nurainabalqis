@@ -15,7 +15,8 @@
 <p align="left">
 <a href="https://instagram.com/nur_ainabalqis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nur_ainabalqis" height="30" width="40" /></a>
 <p align="left">
-<a href="https://linkedin.com/in/nur aina balqis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur aina balqis" height="30" width="40" /></a>
+<a <p align="left">
+<a href="https://www.linkedin.com/in/nur-aina-balqis-4917722a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur aina balqis" height="30" width="40" /></a>
   
 <a href="https://www.youtube.com/c/sekuntumainacindy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sekuntumainacindy" height="30" width="40" /></a>
 </p>
