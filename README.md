@@ -54,18 +54,6 @@ Co-curriculum / Achievements
 - Trust            ☆☆☆☆☆
 - Hardworking      ☆☆☆☆☆
 
----
-title: So this is
----
-erDiagram
-    My Soft Skills ||--o{ I thrive in both collaborative team settings and when working independently. As a team player, I bring effective communication skills, a collaborative mindset, and a willingness to listen and learn from others. On the flip side, my ability to work independently is marked by self-motivation, a strong sense of responsibility, and the capability to manage my time efficiently without constant supervision.: **Can work in groups or individually**
-    I thrive in both collaborative team settings and when working independently. As a team player, I bring effective communication skills, a collaborative mindset, and a willingness to listen and learn from others. On the flip side, my ability to work independently is marked by self-motivation, a strong sense of responsibility, and the capability to manage my time efficiently without constant supervision.||--|{ I have a genuine passion for continuous learning. In the dynamic field of computer science, I actively seek out opportunities to expand my knowledge, whether it's diving into new programming languages, exploring emerging technologies, or staying updated on industry trends. This enthusiasm for learning not only keeps me adaptable but also allows me to bring fresh ideas and insights to any project.: **Likes to learn new things**
-    My Soft Skills }|..|{ Meeting deadlines is not just a goal for me – it's a commitment. I have a strong sense of time management and organization. I break down tasks into manageable steps, prioritize effectively, and ensure that I not only meet but often exceed specified time frames. This ability to deliver results on time is a combination of meticulous planning, focused work, and a proactive approach to problem-solving. : **Able to complete tasks within the specified time frame**
-
-
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
