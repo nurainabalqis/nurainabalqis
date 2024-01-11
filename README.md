@@ -51,14 +51,6 @@ flowchart TD
     B-->E(Able to complete tasks within the specified time frame)
   ```
 
-```mermaid
-flowchart LR
-    id1(Can work in groups or individually)-->id2(I thrive in both collaborative team settings and when working independently. As a team player, I bring effective communication skills, a collaborative mindset, and a willingness to listen and learn from others. On the flip side, my ability to work independently is marked by self-motivation, a strong sense of responsibility, and the capability to manage my time efficiently without constant supervision.)
-    style id1 fill:#f9f,stroke:#333,stroke-width:4px
-    style id2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
-  ```
-
-
 
 
 # 🧕 Soft Skills
