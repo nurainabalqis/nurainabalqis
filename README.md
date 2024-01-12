@@ -13,7 +13,7 @@ Hye buddies, my full name is Nur Aina Balqis Binti Mohamad Zaparin..You can call
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/nur_ainabalqis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nur_ainabalqis" height="30" width="40" /></a><p align="left"><a <p align="left">
+<a href="https://instagram.com/nur_ainabalqis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nur_ainabalqis" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nur-aina-balqis-4917722a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur aina balqis" height="30" width="40" /></a>
 <a href="https://youtube.com/@sekuntumainacindy?si=5nFaxRzH4OX4sAqD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sekuntumainacindy" height="30" width="40" /></a>
 </p>
@@ -105,13 +105,13 @@ flowchart LR
 
 
 # ✨ Soft Skills
-### Critical Thinking
+## Critical Thinking
 I've always prided myself on my critical thinking abilities. It's second nature for me to dissect information, consider different viewpoints, and make well-thought-out decisions. This skill not only helps me navigate complex situations but also positions me as someone who can contribute strategically to various endeavors.
 
-### Resilience
-Resilience is a quality that defines my approach to setbacks. I thrive in the face of challenges, learning from every experience and emerging stronger. This resilience not only contributes to my personal growth but also sets a positive example for those around me.
+## Leadership
+Being a natural leader is something I've cultivated throughout my journey. Confidence, vision, and the ability to inspire and guide my team are qualities I consistently bring to the table. I create an environment where everyone feels empowered, ultimately contributing to a positive and productive work atmosphere.
 
-### Decision-Making
+## Decision-Making
 Decision-making is an area where I shine. I consider relevant information, weigh pros and cons meticulously, and make timely and effective choices. My decision-making abilities contribute to successful outcomes in both professional and personal spheres.
 
 
