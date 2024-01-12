@@ -44,6 +44,10 @@ Co-curriculum / Achievements
 - Assistant teacher Permata Kindergarten (June 2022)
 - Supervisor at Mr. DIY company (June 2023 - September 2023)
 
+  
+![Beige Aesthetic Pastel Collage Memories Moodboaard Photo Collage](https://github.com/nurainabalqis/E-portfolio/assets/148413115/a4612d2d-db93-465e-9c9c-1b7187acba8e)
+Sharing some precious memories with my amazing staff at MR. DY. These talented individuals have been with me through thick and thin, always pushing me to be the best version of myself. Working with such a dedicated and professional team has been an absolute blessing. Here's to many more unforgettable moments and accomplishments together.
+
 # 🤜🤛 Self Strength
 ```mermaid
 flowchart TD
