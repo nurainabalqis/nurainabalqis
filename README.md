@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurainabalqis&label=Profile%20views&color=0e75b6&style=flat" alt="nurainabalqis" /> </p>
 
-![my self](https://github.com/nurainabalqis/nurainabalqis/assets/148413115/2a4a4400-8f39-40ae-b55d-591510cb1a43)
+![my self1](https://github.com/nurainabalqis/nurainabalqis/assets/148413115/42cdc888-d777-45f2-a91a-4787f9dc0e32)
+
 
 **Get to know me ❤️**
 
