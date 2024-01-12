@@ -18,13 +18,23 @@
 </p>
 
 # :notebook_with_decorative_cover: My Studies
-Education
+
+```mermaid
+flowchart LR
+    id1>Eduacation]
+
+  ```
 - University Technology Malaysia, Now (2023 - 2027)
 - Negeri Sembilan Matriculation College (2022 - 2023)
 - Tuanku Jaafar Technical Institute (2020 - 2021)
 - Pendeta Za'ba National Secondary School (2017 - 2019)
 
-Co-curriculum / Achievements
+
+```mermaid
+flowchart LR
+    id1>Co-curriculum / Achievements]
+
+  ```
 - Assistant Practicum Leader (2022 - 2023)
 - Committee Member of the Reading Promotion Program (2022 - 2023)
 - Training and Guidance Bureau of the Zaba Reverend Friends Club (2022 - 2023)
