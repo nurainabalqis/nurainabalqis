@@ -48,6 +48,10 @@ Co-curriculum / Achievements
 ![Beige Aesthetic Pastel Collage Memories Moodboaard Photo Collage](https://github.com/nurainabalqis/E-portfolio/assets/148413115/a4612d2d-db93-465e-9c9c-1b7187acba8e)
 Sharing some precious memories with my amazing staff at MR. DY. These talented individuals have been with me through thick and thin, always pushing me to be the best version of myself. Working with such a dedicated and professional team has been an absolute blessing. Here's to many more unforgettable moments and accomplishments together.
 
+
+![model](https://github.com/nurainabalqis/E-portfolio/assets/148413115/10f1b67f-a1c0-49e2-b0af-cd48fa0f98a5)
+✨ Introducing my latest photoshoot as a model muslimah! 🧕🏼✨ Many of you may be wondering why we are wearing face masks in the photos. Well, let me enlighten you. Our dear Ustazah Asma wants to ensure that her models are protected from the harmful "penyakit ain" (evil eye). 🙏🏼 Being a professional in the industry, she takes every precaution to safeguard us. 💫 So here I am, sharing these stunning shots with you all, while keeping my faith and health in check. 🤍
+
 # 🤜🤛 Self Strength
 ```mermaid
 flowchart TD
