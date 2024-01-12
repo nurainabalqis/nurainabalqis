@@ -45,11 +45,12 @@ Co-curriculum / Achievements
 - Supervisor at Mr. DIY company (June 2023 - September 2023)
 
   
-![Beige Aesthetic Pastel Collage Memories Moodboaard Photo Collage](https://github.com/nurainabalqis/E-portfolio/assets/148413115/a4612d2d-db93-465e-9c9c-1b7187acba8e)
+
+![Beige Aesthetic Pastel Collage Memories Moodboaard Photo Collage](https://github.com/nurainabalqis/nurainabalqis/assets/148413115/41c916e4-1cb8-4693-be67-ed2aa1ee2675)
 Sharing some precious memories with my amazing staff at MR. DY. These talented individuals have been with me through thick and thin, always pushing me to be the best version of myself. Working with such a dedicated and professional team has been an absolute blessing. Here's to many more unforgettable moments and accomplishments together.
 
 
-![model](https://github.com/nurainabalqis/E-portfolio/assets/148413115/10f1b67f-a1c0-49e2-b0af-cd48fa0f98a5)
+![model](https://github.com/nurainabalqis/nurainabalqis/assets/148413115/e394bf64-8d62-4b6f-818e-bf53f37bdfa9)
 ✨ Introducing my latest photoshoot as a model muslimah! 🧕🏼✨ Many of you may be wondering why we are wearing face masks in the photos. Well, let me enlighten you. Our dear Ustazah Asma wants to ensure that her models are protected from the harmful "penyakit ain" (evil eye). 🙏🏼 Being a professional in the industry, she takes every precaution to safeguard us. 💫 So here I am, sharing these stunning shots with you all, while keeping my faith and health in check. 🤍
 
 # 🤜🤛 Self Strength
