@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurainabalqis&label=Profile%20views&color=0e75b6&style=flat" alt="nurainabalqis" /> </p>
 
-```mermaid
-flowchart LR
-    id["Get to know about me ❤️ "]
-  ```
+**Get to know me ❤️**
 
 Hye buddies, my full name is Nur Aina Balqis Binti Mohamad Zaparin..You can call me Aina, because my family always lovingly calls me Balqis. 🤗 Fun fact, my behavior is based on the person's treatment of me. If you guys want to know, before pursuing my studies at University of Technology Malaysia, I was a Assistant Supervisor at Mr. DIY for 4 months. 🛠️ Now, I'm officially a student at UTM and ready to take on the world with a professional mindset. 🎓 Follow along as I navigate this new chapter with determination and passion! 💪 
 📫 How to reach me ? So here my email **nurainabalqis@graduate.utm.my**
