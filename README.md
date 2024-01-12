@@ -49,8 +49,56 @@ flowchart TD
     B-->D(Likes to learn new things)
     B-->E(Able to complete tasks within the specified time frame)
   ```
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    markdown["Can work in groups or individually"]
+    newLines["I thrive in both collaborative team settings and when 
+    working independently. As a team player, I bring effective 
+    communication skills,a collaborative mindset,
+    and a willingness to listen and learn from others. 
+    On the flip side,my ability to work independently is marked  
+    by self-motivation, a strong sense of responsibility, and
+    the capability to manage my time efficiently 
+    without constant supervision."]
+    markdown --> newLines
 
+  ```
 
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    markdown["Likes to learn new things"]
+    newLines["I have a genuine passion for continuous learning. 
+    In the dynamic field of computer science,
+    I actively seek out opportunities to expand my knowledge,
+    whether it's diving into new programming languages,
+    exploring emerging technologies, or
+    staying updated on industry trends.
+    This enthusiasm for learning not only keeps me
+    adaptable but also allows me to bring fresh 
+    ideas and insights to any project."]
+    markdown --> newLines
+
+  ```
+
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    markdown["Able to complete tasks within 
+    the specified time frame"]
+    newLines["Meeting deadlines is not just a goal 
+    for me but it's a commitment. I have a strong 
+    sense of time management and organization. I break 
+    down tasks into manageable steps, prioritize effectively, 
+    and ensure that I not only meet but often 
+    exceed specified time frames. This ability to 
+    deliver results on time is a combination of 
+    meticulous planning, focused work, and a proactive 
+    approach to problem-solving. "]
+    markdown --> newLines
+
+  ```
 
 
 # 🧕 Soft Skills
