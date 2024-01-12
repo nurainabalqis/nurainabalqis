@@ -42,9 +42,14 @@ Co-curriculum / Achievements
 - Supervisor at Mr. DIY company (June 2023 - September 2023)
 
 # 🤜🤛 Self Strength
-- Can work in groups or individually
-- Likes to learn new things
-- Able to complete tasks within the specified time frame
+```mermaid
+flowchart TD
+    B["My Self Strengths"]
+    B-->C[Can work in groups or individually]
+    B-->D(Likes to learn new things)
+    B-->E(Able to complete tasks within the specified time frame)
+  ```
+
 
 
 
