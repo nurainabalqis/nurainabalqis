@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurainabalqis&label=Profile%20views&color=0e75b6&style=flat" alt="nurainabalqis" /> </p>
 
 
-https://github.com/nurainabalqis/E-portfolio/assets/148413115/c4ac0d20-23d5-4815-9482-f82599ceea73
+![my self1](https://github.com/nurainabalqis/nurainabalqis/assets/148413115/11e388cd-8510-471d-a183-22931ba4e5b0)
 
 
 **Get to know me ❤️**
