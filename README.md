@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurainabalqis&label=Profile%20views&color=0e75b6&style=flat" alt="nurainabalqis" /> </p>
 
 
-![my self1](https://github.com/nurainabalqis/nurainabalqis/assets/148413115/11e388cd-8510-471d-a183-22931ba4e5b0)
+
+https://github.com/nurainabalqis/nurainabalqis/assets/148413115/eb4ff22c-792a-44be-b479-633d9d8cc07b
 
 
 **Get to know me ❤️**
@@ -21,14 +22,14 @@ Hye buddies, my full name is Nur Aina Balqis Binti Mohamad Zaparin..You can call
 
 # :notebook_with_decorative_cover: My Studies
 
-Education
+_Education_
 - University Technology Malaysia, Now (2023 - 2027)
 - Negeri Sembilan Matriculation College (2022 - 2023)
 - Tuanku Jaafar Technical Institute (2020 - 2021)
 - Pendeta Za'ba National Secondary School (2017 - 2019)
 
 
-Co-curriculum / Achievements
+_Co-curriculum / Achievements_
 - Assistant Practicum Leader (2022 - 2023)
 - Committee Member of the Reading Promotion Program (2022 - 2023)
 - Training and Guidance Bureau of the Zaba Reverend Friends Club (2022 - 2023)
