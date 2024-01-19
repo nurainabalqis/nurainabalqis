@@ -30,6 +30,7 @@ _Education_
 
 
 _Co-curriculum / Achievements_
+- Committee Member of KTDI
 - Assistant Practicum Leader (2022 - 2023)
 - Committee Member of the Reading Promotion Program (2022 - 2023)
 - Training and Guidance Bureau of the Zaba Reverend Friends Club (2022 - 2023)
@@ -40,6 +41,10 @@ _Co-curriculum / Achievements_
 - Resource Center Oversight Committee Member (2018 - 2019)
 - Girl Guide Association Committee Member (2019)
 - International level Science, Technology, Engineering and Mathematics (STEM) involvement (2021)
+
+  [Co-Curiculum Certificate..pdf](https://github.com/nurainabalqis/nurainabalqis/files/13984429/Co-Curiculum.Certificate.pdf)
+
+  #### 🔼 _Here are some of the co-curricular certificates I've earned, each representing dedication, hard work and a passion for continuous growth._
 
 # 👩‍💻 Work Experience
 - Model and Customer Service gallery of Ustazah Asma Harun (March 2022 - June 2022)
