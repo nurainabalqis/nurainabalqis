@@ -116,15 +116,35 @@ flowchart LR
 
 
 # ✨ Soft Skills
-## Critical Thinking
-I've always prided myself on my critical thinking abilities. It's second nature for me to dissect information, consider different viewpoints, and make well-thought-out decisions. This skill not only helps me navigate complex situations but also positions me as someone who can contribute strategically to various endeavors.
+## Critical Thinking 🤔
+I've always prided myself on my critical thinking abilities. It's second nature for me to dissect information, consider different viewpoints, and make well-thought-out decisions. This skill not only helps me navigate complex situations but also positions me as someone who can contribute strategically to various endeavors. 🌐
 
-## Leadership
-Being a natural leader is something I've cultivated throughout my journey. Confidence, vision, and the ability to inspire and guide my team are qualities I consistently bring to the table. I create an environment where everyone feels empowered, ultimately contributing to a positive and productive work atmosphere.
+## Leadership 🚀
+Being a natural leader is something I've cultivated throughout my journey. Confidence, vision, and the ability to inspire and guide my team are qualities I consistently bring to the table. I create an environment where everyone feels empowered, ultimately contributing to a positive and productive work atmosphere. 🌟👥
 
-## Decision-Making
-Decision-making is an area where I shine. I consider relevant information, weigh pros and cons meticulously, and make timely and effective choices. My decision-making abilities contribute to successful outcomes in both professional and personal spheres.
+## Decision-Making 🤔📊
+Decision-making is an area where I shine. I consider relevant information, weigh pros and cons meticulously, and make timely and effective choices. My decision-making abilities contribute to successful outcomes in both professional and personal spheres. ⚖️💼
 
+## Creativity 💡
+I've always considered myself a creative thinker. Whether it's brainstorming innovative ideas or finding inventive solutions to challenges, my creative skills bring a fresh perspective to any project. I take pride in contributing to the development of new concepts and strategies. 🌈🎨
+
+## Stress Management 🌊
+Managing stress is a skill I've mastered. Through practices of self-care, setting boundaries, and employing effective strategies, I stay focused and composed even in the face of challenging situations. 🧘‍♂️💪
+
+
+# 💻 Computer Skills
+
+## Programming Languages
+I am proficient in several programming languages, including Python, Java, and C++. These languages empower me to develop versatile and efficient applications, contributing to my ability to tackle a variety of software development projects. 🚀💡
+
+## Basic Excel Skills
+I can handle Excel like a champ – creating simple spreadsheets, organizing data, and running basic calculations without any hiccups. 📊📈
+
+## Email Communication
+Email is my digital playground. I can compose, reply, and manage emails without breaking a sweat, keeping my communication game strong. 📧💬
+
+## Online Collaboration Tools
+Platforms like Zoom, Webex, or Google Meet are my go-to for virtual meetings and collaboration. I can schedule, join, and contribute seamlessly. 🌐💻
 
 
 
