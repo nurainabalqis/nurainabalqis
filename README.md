@@ -74,7 +74,7 @@ flowchart LR
     On the flip side,my ability to work independently is marked  
     by self-motivation, a strong sense of responsibility, and
     the capability to manage my time efficiently 
-    without constant supervision."]
+    without constant supervision.🤝💼"]
     markdown --> newLines
 
   ```
@@ -91,7 +91,7 @@ flowchart LR
     staying updated on industry trends.
     This enthusiasm for learning not only keeps me
     adaptable but also allows me to bring fresh 
-    ideas and insights to any project."]
+    ideas and insights to any project.🌱💡📚"]
     markdown --> newLines
 
   ```
@@ -109,10 +109,11 @@ flowchart LR
     exceed specified time frames. This ability to 
     deliver results on time is a combination of 
     meticulous planning, focused work, and a proactive 
-    approach to problem-solving. "]
+    approach to problem-solving.⏰✨🚀 "]
     markdown --> newLines
 
   ```
+
 
 
 # ✨ Soft Skills
@@ -134,18 +135,12 @@ Managing stress is a skill I've mastered. Through practices of self-care, settin
 
 # 💻 Computer Skills
 
-## Programming Languages
-I am proficient in several programming languages, including Python, Java, and C++. These languages empower me to develop versatile and efficient applications, contributing to my ability to tackle a variety of software development projects. 🚀💡
 
-## Basic Excel Skills
-I can handle Excel like a champ – creating simple spreadsheets, organizing data, and running basic calculations without any hiccups. 📊📈
-
-## Email Communication
-Email is my digital playground. I can compose, reply, and manage emails without breaking a sweat, keeping my communication game strong. 📧💬
-
-## Online Collaboration Tools
-Platforms like Zoom, Webex, or Google Meet are my go-to for virtual meetings and collaboration. I can schedule, join, and contribute seamlessly. 🌐💻
-
+|                                                                                                                                                                              Programming Languages                                                                                                                                                                            |                                                                                                                                                                          Email Communication                                                                                                                                                                          |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| I am proficient in several programming languages, including Python, Java, and C++. These languages empower me to develop versatile and efficient applications, contributing to my ability to tackle a variety of software development projects. 🚀💡 | Email is my digital playground. I can compose, reply, and manage emails without breaking a sweat, keeping my communication game strong. 📧💬 |
+|                                                                                                                                                                                Basic Excel Skills                                                                                                                                                                               |                                                                                                                                                                      Online Collaboration Tools                                                                                                                                                                   |
+| I can handle Excel like a champ – creating simple spreadsheets, organizing data, and running basic calculations without any hiccups. 📊📈                                             | Platforms like Zoom, Webex, or Google Meet are my go-to for virtual meetings and collaboration. I can schedule, join, and contribute seamlessly. 🌐💻                               |
 
 
 <h3 align="left">Languages and Tools:</h3>
