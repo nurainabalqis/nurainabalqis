@@ -42,7 +42,7 @@ _Co-curriculum / Achievements_
 - Girl Guide Association Committee Member (2019)
 - International level Science, Technology, Engineering and Mathematics (STEM) involvement (2021)
 
-  [Co-Curiculum Certificate..pdf](https://github.com/nurainabalqis/nurainabalqis/files/13984490/Co-Curiculum.Certificate.pdf)
+  ## [Co-Curiculum Certificate..pdf](https://github.com/nurainabalqis/nurainabalqis/files/13984490/Co-Curiculum.Certificate.pdf)
 
   #### 🔼 _Here are some of the co-curricular certificates I've earned, each representing dedication, hard work and a passion for continuous growth._
 
