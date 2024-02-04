@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nur Aina Balqis</h1>
-<h3 align="center">Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours Computing</h3>
+<h3 align="center">Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurainabalqis&label=Profile%20views&color=0e75b6&style=flat" alt="nurainabalqis" /> </p>
 
