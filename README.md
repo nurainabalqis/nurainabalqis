@@ -30,7 +30,8 @@ _Education_
 
 
 _Co-curriculum / Achievements_
-- Committee Member of KTDI
+- Committee Member of Airo 
+- Committee Member of Rakan Muda Kolej Tun Dr Ismail (KTDI) 
 - Assistant Practicum Leader (2022 - 2023)
 - Committee Member of the Reading Promotion Program (2022 - 2023)
 - Training and Guidance Bureau of the Zaba Reverend Friends Club (2022 - 2023)
